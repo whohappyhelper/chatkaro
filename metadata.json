@@ -1,0 +1,5 @@
+{
+  "name": "ChitChatter AI",
+  "description": "A stranger chat platform that connects you with an AI-powered chat partner based on your interests, inspired by Omegle and chitchat.gg. Also features an admin dashboard for usage insights.",
+  "requestFramePermissions": []
+}
